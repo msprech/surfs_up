@@ -10,7 +10,12 @@ Investors asked for an analysis of the months of June and December to better det
 
 ![dec summary](https://github.com/msprech/surfs_up/blob/7cd88686494159e7c448ef537611a0e89c305fe8/Dec%20Temps.png) ![june summary](https://github.com/msprech/surfs_up/blob/7cd88686494159e7c448ef537611a0e89c305fe8/June%20Temps.png)
 
-As shown in the above summary statistic dataframes for December and June, the average temperatures were relatively consistent throughout the year. There was close to a 10 degree difference between the minimum temperatures experienced, with 56 being the minimum in December and 64 being the minimum in June, however, the mean temperatures were less than four degrees apart. The mean temperature for the December months was 71.04, while the mean for June was 74.94. The max temperatures were only two degrees apart, with a peak of 83 in December and 85 in June. 
+As shown in the above summary statistic dataframes for December and June, the average temperatures were relatively consistent throughout the year. 
+
+* Minimum temperatures were close to 10 degrees different (Dec: 56, June: 64), however, 
+* Mean temperatures were less than 4 degrees apart (Dec: 71.04, June: 74.94) and, 
+* Max temperatures were only 2 degrees apart (Dec: 83, June: 85
+
 
 ## Summary 
 
